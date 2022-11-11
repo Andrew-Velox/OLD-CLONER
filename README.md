@@ -14,10 +14,8 @@
 
 ## <b> TOOL RUN </b>
 - `rm -rf OLD-CLONER`
-- `git clone https://github.com/Andrew-Velox/OLD-CLONER`
-- `ls`
+- `git clone https://github.com/Andrew-Velox/OLD-CLONE`
 - `cd OLD-CLONER`
-- `ls`
 - `python run.py`
 
 
